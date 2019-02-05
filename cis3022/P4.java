@@ -1,8 +1,5 @@
 /*
-    Name: Connie Yong
-    Section: 6925
-    Group: 1
-    Partner: Oscar Alvarado
+    Name: Connie
 
 First I declared the class name and main method.  Then I declared my variables. Then my program welcomes the player with a welcome print statement.  Then I start my while loop, which will display the board over and over again.  After displaying the board, the program asks the player to place the randomly selected piece.  The program then receives the user inputs (row and column number) and the program determines what to do next with the if statements.  If user inputs are within the range of values of rows and columns, then the piece would be placed in the corresponding spots on the board.  If the user enters numbers outside the range for either row or column number, then the program will display an invalid move message and then continue with the game.  When all the possible moves are out, then a goodbye message will be displayed.
 */
