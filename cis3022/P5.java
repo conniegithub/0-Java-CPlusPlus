@@ -1,8 +1,5 @@
 /*
-Name: Connie Yong
-Section: 6925
-Group: 1
-Partner: Oscar Alvarado
+Name: Connie
 
  Main Method:
 	Declare variables (baord, row, column, piece, pieces)
