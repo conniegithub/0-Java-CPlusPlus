@@ -2,9 +2,7 @@
 //===========================================================
 //Program Information:
 //
-//COP 2271 Project 4: Graphs and File Processing
-//Due: 10/8/2011
-//Name: Yicong Yong
+//Name: Connie
 //
 //-----------------------------------------------------------
 //
