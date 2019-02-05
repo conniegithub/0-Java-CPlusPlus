@@ -2,9 +2,8 @@
 //===========================================================
 //Program Information:
 //
-//COP 2271 Project 6: Sorted Array
-//Due: 12/10/2011
-//Name: Yicong Yong
+//Name: Connie
+//
 //===========================================================
 
 #include <iostream>
