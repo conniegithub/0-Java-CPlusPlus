@@ -14,7 +14,7 @@ class P3{
         int row = 0;
         int column = 0;
 	
-        System.out.print("Name: Connie Yong" + "\nSection: 6925" + "\nGroup: 1" + "\nPartner: Oscar Alvarado");
+        System.out.print("Name: Connie");
         System.out.println("\n\nWelcome to Tetris!");
         System.out.println();
 
