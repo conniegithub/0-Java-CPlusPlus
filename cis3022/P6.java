@@ -1,8 +1,5 @@
 /*
-Name: Connie Yong
-Section: 6925
-Group: 1
-Partner: Oscar Alvarado
+Name: Connie
 
  Main Method and GameBoard class are the same from Project 5.
 
@@ -16,7 +13,7 @@ class P6{
         char pieces[] = new char[] {'A', 'B', 'C', 'D', 'E'};
 		String name;
 		
-        System.out.print("Name: Connie Yong" + "\nSection: 6925" + "\nGroup: 1" + "\nPartner: Oscar Alvarado");
+        System.out.print("Name: Connie");
 
         GameBoard gameBoard = new GameBoard(5);	//create an instance
 
