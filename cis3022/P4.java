@@ -11,7 +11,7 @@ class P4{
         int row, column, piece = (int) (Math.random() * 4);	//randomly generates a piece
         char pieces[] = new char[] {'A', 'B', 'C', 'D', 'E'};
 
-        System.out.print("Name: Connie Yong" + "\nSection: 6925" + "\nGroup: 1" + "\nPartner: Oscar Alvarado");
+        System.out.print("Name: Connie");
 
         GameBoard.init(5);		//this initializes the board
         System.out.print("\n\nWelcome to Tetris!");
