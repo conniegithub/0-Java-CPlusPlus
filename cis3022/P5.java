@@ -51,7 +51,7 @@ class P5{
         int row, column, piece = (int) (Math.random() * 5);	//randomly generates a piece
         char pieces[] = new char[] {'A', 'B', 'C', 'D', 'E'};
 
-        System.out.print("Name: Connie Yong" + "\nSection: 6925" + "\nGroup: 1" + "\nPartner: Oscar Alvarado");
+        System.out.print("Name: Connie");
 
         GameBoard gameBoard = new GameBoard(5);	//create an instance
         System.out.print("\n\nWelcome to Tetris!");
